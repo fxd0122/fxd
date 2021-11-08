@@ -5,5 +5,9 @@
 #####  *DFA.py* To-do List
 
 - [x] Context-free grammar to Greibach paradigm
-
 - [x] Greibacn paradigm to NPDA
+
+##### *Turing_Machine.py*
+
+实现$x^y$
+
